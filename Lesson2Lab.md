@@ -18,28 +18,6 @@
 - Forums
 - Analytics
 
-#### Screenshots:
-**Dashboard**  
-![Dashboard Screenshot](UPLOAD_SCREENSHOT_LINK)
-
-**Tickets**  
-![Tickets Screenshot](UPLOAD_SCREENSHOT_LINK)
-
-**Contacts**  
-![Contacts Screenshot](UPLOAD_SCREENSHOT_LINK)
-
-**Companies**  
-![Companies Screenshot](UPLOAD_SCREENSHOT_LINK)
-
-**Solutions**  
-![Solutions Screenshot](UPLOAD_SCREENSHOT_LINK)
-
-**Forums**  
-![Forums Screenshot](UPLOAD_SCREENSHOT_LINK)
-
-**Analytics**  
-![Analytics Screenshot](UPLOAD_SCREENSHOT_LINK)
-
 ### Step 3: Activate Default Support Email
 - Navigate to:  
 `Admin Settings → Email`
@@ -47,7 +25,7 @@
 ![Support Email Activation](UPLOAD_SCREENSHOT_LINK)
 
 - Test email creates a new ticket:
-![Test Ticket Screenshot](UPLOAD_SCREENSHOT_LINK)
+![Test Ticket Screenshot](https://github.com/user-attachments/assets/d85c0eeb-601a-4531-a111-e71b16eddea0)
 
 ### Step 4: Add a New Agent
 - Added agent via email invitation
