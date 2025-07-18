@@ -20,7 +20,7 @@ MITT IT Solutions
 | Version | Date       | Name          | Designation | Action   |
 | ------- | ---------- | ------------- | ----------- | -------- |
 | 1.0     | 2025-07-18 | Jack Liu      | Author      | Created  |
-| 1.1     | 2025-07-19 | Felix Doe     | Reviewer    | Reviewed |
+| 1.1     | 2025-07-19 | Felix Liang   | Reviewer  | Reviewed |
 | 1.2     | 2025-07-20 | Marni Russell | Approver    | Approved |
 
 ---
@@ -183,7 +183,7 @@ sudo systemctl status mysql
 | Version | Date       | Author        | Changes               |
 | ------- | ---------- | ------------- | --------------------- |
 | 1.0     | 2025-07-18 | Jack Liu      | Initial draft         |
-| 1.1     | 2025-07-19 | Felix Doe     | Reviewed, added tools |
+| 1.1     | 2025-07-19 | Felix Liang   | Reviewed, added tools |
 | 1.2     | 2025-07-20 | Marni Russell | Final approval        |
 
 ---
