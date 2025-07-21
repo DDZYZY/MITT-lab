@@ -121,16 +121,16 @@ Our organization is an innovation-driven company focused on enhancing operationa
                       +----+----------+----+
                            |          |
             +--------------+          +--------------+
-            |                                      |
-     +------v------+                       +-------v------+
-     | Distribution|                       | Distribution |
-     |    Switch   |                       |    Switch    |
-     +------+------+                       +------+-------+
-            |                                      |
-   +--------v-------+                  +----------v---------+
-   |  Wireless APs   |                  |    Wireless APs    |
-   |  (Conference)   |                  |    (Workstations)  |
-   +-----------------+                  +--------------------+
+            |                                        |
+     +------v------+                         +-------v------+
+     | Distribution|                         | Distribution |
+     |    Switch   |                         |    Switch    |
+     +------+------+                         +------+-------+
+            |                                       |
+   +--------v-------+                    +----------v---------+
+   |  Wireless APs  |                    |    Wireless APs    |
+   |  (Conference)  |                    |    (Workstations)  |
+   +----------------+                    +--------------------+
 ```
 <img width="2440" height="1686" alt="output" src="https://github.com/user-attachments/assets/6cfa5552-662e-4a54-a577-172800cccd0a" />
 
