@@ -50,14 +50,7 @@ Design and select components for a high-performance desktop PC capable of suppor
 | Others       | Mouse, Keyboard, USB, HDMI | Basic peripherals                                          | \$100          |
 | **Total**    |                            |                                                            | **\~\$2345**   |
 
-<img src="https://github.com/user-attachments/assets/fc3a7576-83c3-45df-928a-f5ec17c39a9b" alt="1 2 1" width="452">
-<img src="https://github.com/user-attachments/assets/2598ee1a-d5fd-4107-b125-1b3beb7d9daa" alt="1 2 2" width="452">
-<img src="https://github.com/user-attachments/assets/82571a18-2289-45a2-a595-956d9aa5b162" alt="1 2 3" width="452">
-<img src="https://github.com/user-attachments/assets/8c592fc6-5e91-4035-aff5-23081856ab76" alt="1 2 4" width="452">
-<img src="https://github.com/user-attachments/assets/bf8fc20a-91f4-4354-8085-e9ec06c64064" alt="1 2 5" width="452">
-<img src="https://github.com/user-attachments/assets/2d99ab43-31d2-4897-a460-a7c3cb031281" alt="1 2 6" width="452">
-<img src="https://github.com/user-attachments/assets/e1ddbdc9-df05-4d12-85e3-e209775260c6" alt="1 2 7" width="452">
-
+![22](https://github.com/user-attachments/assets/a77a9d04-0193-457a-be2b-f96bc9af60f0)
 
 💡 *Reserve \~\$600 for UPS, 2nd SSD, or a backup drive.*
 
@@ -79,7 +72,6 @@ Assemble all components into a fully functioning machine ready for operating sys
 
 ### ✅ Step-by-Step Instructions
 
-![22](https://github.com/user-attachments/assets/a77a9d04-0193-457a-be2b-f96bc9af60f0)
 
 
 🔹 **Step 2.1: Preparation**
@@ -128,6 +120,8 @@ Assemble all components into a fully functioning machine ready for operating sys
 
 
 🔹 **Step 2.5: Install SSD & HDD**
+
+![30](https://github.com/user-attachments/assets/5d29fa76-ce2f-44ab-9c5b-54d3f8506e66)
 
 * Insert M.2 SSD into designated motherboard slot → secure with screw
 * Mount HDD into tray, connect SATA data cable to motherboard
